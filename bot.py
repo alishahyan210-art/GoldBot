@@ -11,8 +11,8 @@ import pytz
 # ─────────────────────────────────────────
 #  CONFIG — APNI KEYS YAHAN DAAL
 # ─────────────────────────────────────────
-TELEGRAM_TOKEN = "8651506670:AAGCEH2OyL0RazZ3pSaWtNSZ_EPPZpEKLFU"
-GROQ_API_KEY   = "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"
+TELEGRAM_TOKEN = "8651506670:AAFkwznXEQl_Yg9Lowiy6kVffrPtaM8mW_w"
+GROQ_API_KEY   = "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"
 YOUR_CHAT_ID   =  7028226344
 
 PAKISTAN_TZ = pytz.timezone("Asia/Karachi")
